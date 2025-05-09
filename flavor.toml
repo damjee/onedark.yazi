@@ -101,7 +101,7 @@ border   = { fg = "#61AFEF" }
 
 [tasks]
 border  = { fg = "#61AFEF" }
-hovered = { fg = "C678DD", underline = true }
+hovered = { fg = "#C678DD", underline = true }
 
 
 
