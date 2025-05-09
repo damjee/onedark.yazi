@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/sxyazi/yazi/blob/main/assets/logo.png?raw=true" alt="Yazi logo" width="20%">
-</div>
-
 <h3 align="center">
 	OneDark Yazi Flavor
 </h3>
