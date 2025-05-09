@@ -24,7 +24,7 @@ To set it as your dark flavor, change the content of your `theme.toml` to:
 
 ```toml
 [flavor]
-dark = "ohedark"
+dark = "onedark"
 ```
 
 Make sure your `theme.toml` doesn't contain anything other than `[flavor]`, unless you want to override certain styles of this flavor.
